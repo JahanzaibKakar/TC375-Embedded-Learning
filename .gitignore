@@ -1,0 +1,7 @@
+TriCore Debug (TASKING)/
+Libraries/
+*.o
+*.elf
+*.map
+*.hex
+*.siz

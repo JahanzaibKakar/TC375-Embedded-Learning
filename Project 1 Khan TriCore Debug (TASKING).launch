@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.rt.hightec.agent.launcher.launchConfigurationType">
+    <stringAttribute key="ACC_HW" value="DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N"/>
+    <stringAttribute key="ADDITIONAL_AGENT_OPTIONS" value=""/>
+    <booleanAttribute key="ENABLE_AGENTLOG" value="false"/>
+    <booleanAttribute key="ENABLE_FLASHING" value="true"/>
+    <booleanAttribute key="ENABLE_STOPPING" value="true"/>
+    <stringAttribute key="EXECUTABLE_PATH" value="${workspace_loc}/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf"/>
+    <stringAttribute key="PPU_ELF_PATH" value=""/>
+    <stringAttribute key="STOP_FUNCTION" value="core0_main"/>
+    <stringAttribute key="SVD" value="C:/Infineon/AURIX-Studio-1.10.36/build_system/bundled-artefacts-repo/svd/tc37xpd/1.2-3/device.svd"/>
+    <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="Project 1 Khan"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Project 1 Khan"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_LOCATION" value="/Project 1 Khan/Project 1 Khan TriCore Debug (TASKING).launch"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_PROJECT_NAME" value="Project 1 Khan"/>
+    <booleanAttribute key="org.eclipse.debug.ui.ATTR_SHARED" value="true"/>
+    <stringAttribute key="org.eclipse.tcf.debug.MemoryMap" value="[{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 2: CPU2 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;6443a288-95f7-497e-ba7e-bb5ef2f565df&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 2: CPU2 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;758b9881-20a0-4adb-a24e-b2590a871ea9&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 2: CPU2 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;fcfc3864-1602-4126-8917-7f8462126a43&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 0: CPU0 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;6543b9e1-2c60-47ef-84b1-f478fcf31aa5&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 2: CPU2 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;fa974d2f-5114-4d7b-adff-a8932ecfa532&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 0: CPU0 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;6edc7f08-00b0-467e-94bf-fbc878623a02&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 2: CPU2 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;68e7458b-afcd-4f8a-b2f5-652a013c92ba&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 0: CPU0 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;9a33c4c9-65f9-4681-9055-add7833eee1b&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;263a8f52-6657-4e1a-b507-df8ad7858ee6&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 2: CPU2 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;d1641d11-2e25-430e-85c5-a52365b61c2a&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 0: CPU0 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;155385eb-e956-4a66-9669-c9e469fde50b&quot;},{&quot;FileName&quot;:&quot;C:/Users/PC/AURIX-v1.10.36-workspace/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS AURIX LITE KIT V2.0 (TC375) LK6OI39N/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;76a5a698-5d9a-4121-8486-596efaccd8e1&quot;}]"/>
+    <stringAttribute key="org.eclipse.tcf.debug.PeerID" value="TCP:127.0.0.1:1534"/>
+    <stringAttribute key="org.eclipse.tcf.debug.ProjectName" value="Project 1 Khan"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalAgent" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalServer" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.UseLocalAgent" value="false"/>
+    <stringAttribute key="org.eclipse.tcf.debug.executable_name" value="${workspace_loc}/Project 1 Khan/TriCore Debug (TASKING)/Project 1 Khan.elf"/>
+    <stringAttribute key="sessionID" value="e0a46237-ae39-409a-87b4-254b96dcad7d"/>
+</launchConfiguration>
